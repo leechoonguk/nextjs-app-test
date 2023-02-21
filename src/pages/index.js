@@ -20,7 +20,7 @@ export default function Home() {
         </ol>
         <article>
           <h2>Welcome</h2>
-          Hello, WEB
+          Hello, WEB2
         </article>
         <ul>
           <li>
